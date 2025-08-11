@@ -1,4 +1,4 @@
-#task 3
+#task 2
 
 """The provided code stub reads two integers from STDIN, a and b. Add code to print three lines where:
 
